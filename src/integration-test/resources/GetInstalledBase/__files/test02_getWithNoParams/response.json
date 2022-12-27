@@ -1,0 +1,1919 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144515039",
+			"placementId": -41159,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 1112",
+			"postCode": "85353",
+			"city": "Sundsvall",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Medelpad Lokal",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109232306327",
+			"placementId": -38413,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 44",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109324902055",
+			"placementId": -38186,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 2223",
+			"postCode": "86532",
+			"city": "Alnö",
+			"dateFrom": "2008-02-13",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144502091",
+			"placementId": -38126,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 21 B 4010170",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144515107",
+			"placementId": -37817,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 1112",
+			"postCode": "85353",
+			"city": "Sundsvall",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144517538",
+			"placementId": -37402,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 17 F 4010965",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109122811214",
+			"placementId": -36920,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 27",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109140702235",
+			"placementId": -36827,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 4 B 4170153",
+			"dateFrom": "2005-10-13",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109141108111",
+			"placementId": -36437,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 32",
+			"postCode": "85356",
+			"city": "Sundsvall",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109141106155",
+			"placementId": -36019,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 6",
+			"postCode": "85353",
+			"city": "Sundsvall",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109114706085",
+			"placementId": -34515,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Allén 20 lgh 1105",
+			"postCode": "85236",
+			"city": "SUNDSVALL",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109231807177",
+			"placementId": -34473,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 33",
+			"postCode": "85630",
+			"city": "Sundsvall",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144512212",
+			"placementId": -34083,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 26",
+			"postCode": "853 53",
+			"city": "Sundsvall",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109197501485",
+			"placementId": -33087,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 69 Lgh 53",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144609882",
+			"placementId": -32702,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 20 D",
+			"postCode": "85352",
+			"city": "Sundsvall",
+			"dateFrom": "2008-02-13",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144509472",
+			"placementId": -32679,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 46 4010888",
+			"dateFrom": "2001-07-11",
+			"dateTo": "2013-11-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144517408",
+			"placementId": -32445,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 17 E 4010976",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109141107459",
+			"placementId": -32132,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 2",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109232301315",
+			"placementId": -31188,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 42",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144512236",
+			"placementId": -30966,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 26 4010742",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109232306020",
+			"placementId": -30606,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 42",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109114706030",
+			"placementId": -29789,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Allén 20 lgh 1002",
+			"postCode": "85236",
+			"city": "SUNDSVALL",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109144502114",
+			"placementId": -29547,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 21 B 4010175",
+			"dateFrom": "2001-07-11",
+			"dateTo": "2013-11-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109141107350",
+			"placementId": -29358,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 4",
+			"postCode": "85353",
+			"city": "Sundsvall",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "691071",
+			"type": "Fjärrkyla",
+			"facilityId": "735999226000059909",
+			"placementId": -24225,
+			"careOf": "Pettson Findus",
+			"street": "Byn",
+			"postCode": "50199",
+			"city": "Vetlanda",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "0",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "debiteffect",
+					"value": "",
+					"type": "kW",
+					"displayName": "Abonnerad effekt"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "600606",
+			"type": "El",
+			"facilityId": "600606",
+			"placementId": 57,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "",
+			"postCode": "",
+			"city": "",
+			"dateFrom": "2005-10-13",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "4990",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Avfallsvåg",
+			"facilityId": "10335",
+			"placementId": 289,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "",
+			"postCode": "",
+			"city": "",
+			"dateFrom": "2010-10-13",
+			"metaData": []
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600675",
+			"type": "Avfallsvåg",
+			"facilityId": "600675",
+			"placementId": 397,
+			"careOf": "Statlig instutition",
+			"street": "",
+			"postCode": "",
+			"city": "",
+			"dateFrom": "2004-04-14",
+			"metaData": []
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "38308",
+			"type": "Avfallsvåg",
+			"facilityId": "38308",
+			"placementId": 498,
+			"careOf": "Privat företag AB",
+			"street": "",
+			"postCode": "",
+			"city": "",
+			"dateFrom": "1997-03-11",
+			"metaData": []
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "38308",
+			"type": "Elhandel",
+			"facilityId": "9412001019",
+			"placementId": 1886,
+			"careOf": "Privat företag AB",
+			"street": "Gatan 66",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sollentuna",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9111003092",
+			"placementId": 2658,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 27",
+			"propertyDesignation": "Ankeborg 2",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Malmö-Burlöv",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9111803038",
+			"placementId": 2660,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 19",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2001-07-11",
+			"dateTo": "2013-11-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Småland Norra lokalnät",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9114603054",
+			"placementId": 2662,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 28",
+			"propertyDesignation": "Ankeborg 11",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skåne Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9116017014",
+			"placementId": 2663,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 13-15",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2008-02-13",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skåne Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9122804017",
+			"placementId": 2664,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 24",
+			"propertyDesignation": "Ankeborg 5",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Småland Södra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9122811012",
+			"placementId": 2665,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 27",
+			"propertyDesignation": "Ankeborg 5",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Småland Södra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9127101013",
+			"placementId": 2666,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 18",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Malmö-Burlöv",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9130902555",
+			"placementId": 2667,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 12",
+			"propertyDesignation": "Ankeborg 9",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skåne Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9131606015",
+			"placementId": 2669,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 10 A",
+			"propertyDesignation": "Ankeborg 6+20",
+			"dateFrom": "2013-10-30",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Småland Södra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9140707135",
+			"placementId": 2670,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 14",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2009-02-28",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Medelpad Lokal",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9141104159",
+			"placementId": 2671,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 10",
+			"propertyDesignation": "Ankeborg 3",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Östra Götaland",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9141401274",
+			"placementId": 2672,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 29",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2001-01-27",
+			"dateTo": "2007-09-22",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Malmö-Burlöv",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9141701012",
+			"placementId": 2673,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 7 D",
+			"propertyDesignation": "Ankeborg 20",
+			"dateFrom": "2011-11-11",
+			"dateTo": "2018-03-31",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Småland Södra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144502011",
+			"placementId": 2674,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 21 F",
+			"propertyDesignation": "Ankeborg 3",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skåne Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144504017",
+			"placementId": 2675,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 25 E",
+			"propertyDesignation": "Ankeborg 5",
+			"dateFrom": "2010-07-03",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Tidaholm",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144507010",
+			"placementId": 2676,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 25 Garage",
+			"propertyDesignation": "Ankeborg 8",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Småland Södra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144509016",
+			"placementId": 2677,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 54",
+			"propertyDesignation": "Ankeborg 3",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skåne Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144517019",
+			"placementId": 2678,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 17 C",
+			"propertyDesignation": "Ankeborg 2",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Medelpad Lokal",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144603017",
+			"placementId": 2679,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 18 A",
+			"propertyDesignation": "Ankeborg 6",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Östra Götaland",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9144606010",
+			"placementId": 2680,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 22 A",
+			"propertyDesignation": "Ankeborg 5",
+			"dateFrom": "2015-04-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Östra Götaland",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9162201017",
+			"placementId": 2690,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 1",
+			"propertyDesignation": "Ankeborg 8",
+			"dateFrom": "2013-12-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Tidaholm",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9163605034",
+			"placementId": 2691,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 30",
+			"propertyDesignation": "Ankeborg 9",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppsala",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9163801013",
+			"placementId": 2692,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 38 C",
+			"propertyDesignation": "Ankeborg 2",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppsala",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9165604019",
+			"placementId": 2693,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 11c",
+			"propertyDesignation": "Ankeborg 3+4",
+			"dateFrom": "2015-04-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Drefviken",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9170504055",
+			"placementId": 2694,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 33",
+			"propertyDesignation": "Ankeborg 4",
+			"dateFrom": "2013-12-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Drefviken",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9170511027",
+			"placementId": 2695,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 31",
+			"propertyDesignation": "Ankeborg 5",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Vätterbygden",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9170903109",
+			"placementId": 2696,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 8",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Vätterbygden",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9170906052",
+			"placementId": 2697,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 33 B",
+			"propertyDesignation": "Ankeborg 10",
+			"dateFrom": "2005-10-13",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppsala",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9171403067",
+			"placementId": 2698,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 11",
+			"propertyDesignation": "Ankeborg 15",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppsala",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9171406300",
+			"placementId": 2699,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 44 A",
+			"propertyDesignation": "Ankeborg 16",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Dalsland med omnejd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9173007015",
+			"placementId": 2700,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 8",
+			"propertyDesignation": "Ankeborg 7",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Värmdö",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9173513012",
+			"placementId": 2701,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 11",
+			"propertyDesignation": "Ankeborg 11+10 + Pilen 11",
+			"dateFrom": "2015-04-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Huvudsta",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9173703019",
+			"placementId": 2702,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 30",
+			"propertyDesignation": "Ankeborg 20, Eken 10",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Huvudsta",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9184006113",
+			"placementId": 2703,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 24",
+			"propertyDesignation": "Ankeborg 6",
+			"dateFrom": "2010-07-03",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Drefviken",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9196101555",
+			"placementId": 2704,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 9",
+			"propertyDesignation": "Ankeborg 15",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Värmdö",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9196801014",
+			"placementId": 2705,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 4 B",
+			"propertyDesignation": "Ankeborg 3",
+			"dateFrom": "2001-01-27",
+			"dateTo": "2007-09-22",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Värmdö",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9197501019",
+			"placementId": 2706,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 65",
+			"propertyDesignation": "Ankeborg 18",
+			"dateFrom": "2015-04-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Avesta",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9197501027",
+			"placementId": 2707,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 69",
+			"propertyDesignation": "Ankeborg 19",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Vätterbygden",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9197601033",
+			"placementId": 2708,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 73",
+			"propertyDesignation": "Ankeborg 20",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Vagnhärad",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9198001324",
+			"placementId": 2709,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 16",
+			"propertyDesignation": "Ankeborg 3",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Vätterbygden",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9224601014",
+			"placementId": 2710,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 24 A",
+			"propertyDesignation": "Ankeborg 1+2",
+			"dateFrom": "2001-07-11",
+			"dateTo": "2013-11-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Dalsland med omnejd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9231802019",
+			"placementId": 2711,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 32",
+			"propertyDesignation": "Ankeborg 11",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Huddinge",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9232007014",
+			"placementId": 2712,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 3 D",
+			"propertyDesignation": "Ankeborg 14",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Värmdö",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9232306028",
+			"placementId": 2713,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 42",
+			"propertyDesignation": "Ankeborg 1-3",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skövde Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9232404179",
+			"placementId": 2714,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 26",
+			"propertyDesignation": "Ankeborg 3",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skövde Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9323707035",
+			"placementId": 2715,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 30",
+			"propertyDesignation": "Ankeborg 1:121 del av",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppland Västra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9323712027",
+			"placementId": 2716,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 44",
+			"propertyDesignation": "Ankeborg 1:16",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppland Västra",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9323715012",
+			"placementId": 2717,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 52",
+			"propertyDesignation": "Ankeborg 1:179",
+			"dateFrom": "2013-12-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sjuhärad",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9323720012",
+			"placementId": 2718,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 24",
+			"propertyDesignation": "Ankeborg 1:128",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sjuhärad",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9323724014",
+			"placementId": 2719,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 44",
+			"propertyDesignation": "Ankeborg 1:201",
+			"dateFrom": "2013-12-27",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Höganäs",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9323728015",
+			"placementId": 2720,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 23",
+			"propertyDesignation": "Ankeborg 1:206",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Olseröd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9324119255",
+			"placementId": 2721,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 17-19",
+			"propertyDesignation": "Ankeborg 3:171",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sjöbo",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9324908202",
+			"placementId": 2722,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 2",
+			"propertyDesignation": "Ankeborg 2:78",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Herrljunga",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9420817018",
+			"placementId": 2723,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 7",
+			"propertyDesignation": "Ankeborg 5:7+19:1",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Hjärtum",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9420818040",
+			"placementId": 2724,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 20",
+			"propertyDesignation": "Ankeborg 2:33",
+			"dateFrom": "2015-04-12",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Bromölla",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9420818065",
+			"placementId": 2725,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 48",
+			"propertyDesignation": "Ankeborg 2:9",
+			"dateFrom": "2001-01-27",
+			"dateTo": "2007-09-22",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Stockholm",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9451436019",
+			"placementId": 2726,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen kh 2",
+			"propertyDesignation": "Ankeborg 3:318",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Östra Götaland",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9452603013",
+			"placementId": 2727,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 5",
+			"propertyDesignation": "Ankeborg 3:368",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Skåne Landsbygd",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9452901011",
+			"placementId": 2728,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen kh",
+			"propertyDesignation": "Ankeborg 3:342",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Stockholm",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9513779018",
+			"placementId": 2729,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 8-14",
+			"propertyDesignation": "Ankeborg 1:88",
+			"dateFrom": "2010-10-13",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Malung",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9513784018",
+			"placementId": 2730,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 17",
+			"propertyDesignation": "Ankeborg 2:9",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Malmö-Burlöv",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9120601050",
+			"placementId": 3619,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 3",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9140205031",
+			"placementId": 3620,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 10",
+			"postCode": "85350",
+			"city": "SUNDSVALL",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9140205056",
+			"placementId": 3621,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 14",
+			"postCode": "85350",
+			"city": "SUNDSVALL",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "7170511021",
+			"placementId": 4789,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 31",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Vätterbygden",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Avfallsvåg",
+			"facilityId": "7170906056",
+			"placementId": 4790,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 26",
+			"dateFrom": "2002-07-22",
+			"metaData": []
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Avfallsvåg",
+			"facilityId": "7170906064",
+			"placementId": 4791,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 26",
+			"dateFrom": "2013-02-25",
+			"metaData": []
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9128203404",
+			"placementId": 5128,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 6",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2019-11-06",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Uppsala",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "9128203412",
+			"placementId": 5129,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Gatan 4",
+			"propertyDesignation": "Ankeborg 1",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Värnamo",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600675",
+			"type": "Fjärrvärme",
+			"facilityId": "735999109111805057",
+			"placementId": 5261,
+			"careOf": "Statlig instutition",
+			"street": "Vägen 22",
+			"dateFrom": "2016-11-22",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "44",
+					"type": "MWh",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "debiteffect",
+					"value": "12",
+					"type": "kW",
+					"displayName": "Abonnerad effekt"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 100,
+		"totalRecords": 322,
+		"totalPages": 4,
+		"sortDirection": "ASC"
+	}
+}

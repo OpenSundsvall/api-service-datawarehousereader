@@ -1,0 +1,44 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "691071",
+			"type": "Fjärrkyla",
+			"facilityId": "735999226000059909",
+			"placementId": -24225,
+			"careOf": "Pettson Findus",
+			"street": "Byn",
+			"postCode": "50199",
+			"city": "Vetlanda",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "0",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "debiteffect",
+					"value": "",
+					"type": "kW",
+					"displayName": "Abonnerad effekt"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 1,
+		"sortDirection": "ASC",
+		"totalRecords": 1,
+		"totalPages": 1
+	}
+}

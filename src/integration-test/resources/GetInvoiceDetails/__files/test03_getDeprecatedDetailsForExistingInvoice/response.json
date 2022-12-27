@@ -1,0 +1,47 @@
+[
+	{
+		"invoiceNumber": 139342893,
+		"amount": 509.18,
+		"amountVatExcluded": 407.34,
+		"vat": 101.84,
+		"vatRate": 25.0,
+		"quantity": 30.0,
+		"unit": "Dagar",
+		"unitPrice": 13.5781,
+		"periodFrom": "2019-09-01",
+		"periodTo": "2019-09-30",
+		"productCode": 1403,
+		"productName": "Fast Elnätsavgift",
+		"organizationNumber": "5565027223"
+	},
+	{
+		"invoiceNumber": 139342893,
+		"amount": 208.31,
+		"amountVatExcluded": 166.65,
+		"vat": 41.66,
+		"vatRate": 25.0,
+		"quantity": 1515.02,
+		"unit": "kWh",
+		"unitPrice": 0.11,
+		"periodFrom": "2019-09-01",
+		"periodTo": "2019-09-30",
+		"productCode": 1404,
+		"productName": "Elöverföring",
+		"organizationNumber": "5565027223"
+	},
+	{
+		"invoiceNumber": 139342893,
+		"amount": 657.14,
+		"amountVatExcluded": 525.71,
+		"vat": 131.43,
+		"vatRate": 25.0,
+		"quantity": 1515.02,
+		"unit": "kWh",
+		"unitPrice": 0.347,
+		"periodFrom": "2019-09-01",
+		"periodTo": "2019-09-30",
+		"productCode": 1413,
+		"productName": "Energiskatt",
+		"organizationNumber": "5565027223"
+	}
+]

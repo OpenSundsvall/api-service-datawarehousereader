@@ -1,0 +1,44 @@
+{
+	"invoices": [
+		{
+			"customerNumber": "600606",
+			"customerType": "Enterprise",
+			"facilityId": "600606",
+			"invoiceNumber": 767916190,
+			"invoiceDate": "2019-10-14",
+			"invoiceName": "767916190.pdf",
+			"invoiceType": "Kreditfaktura",
+			"invoiceDescription": "El",
+			"invoiceStatus": "Skickad",
+			"ocrNumber": 767916190,
+			"dueDate": "2019-10-31",
+			"totalAmount": -1900.0,
+			"amountVatIncluded": -1900.0,
+			"amountVatExcluded": -1520.0,
+			"vatEligibleAmount": -1520.0,
+			"rounding": 0.0,
+			"vat": -1520.0,
+			"reversedVat": false,
+			"currency": "sek",
+			"organizationGroup": "stadsbacken",
+			"organizationNumber": "5565027223",
+			"administration": "Sundsvall Elnät",
+			"street": "DB79B,  FE 11040",
+			"postCode": "83882",
+			"city": "FRÖSÖN",
+			"careOf": "Fräscha fastigheter AB",
+			"pdfAvailable": true
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 1,
+		"sortBy": [
+			"invoiceDate"
+		],
+		"sortDirection": "ASC",
+		"totalRecords": 1,
+		"totalPages": 1
+	}
+}

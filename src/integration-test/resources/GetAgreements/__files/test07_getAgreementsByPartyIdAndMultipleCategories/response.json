@@ -1,0 +1,120 @@
+{
+	"agreements": [
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "632505",
+			"facilityId": "735999109114705002",
+			"category": "ELECTRICITY",
+			"billingId": "2045932",
+			"agreementId": "41111",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2016-10-14"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "632563",
+			"facilityId": "735999109232609053",
+			"category": "ELECTRICITY",
+			"billingId": "2046012",
+			"agreementId": "41185",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2016-10-25"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "632628",
+			"facilityId": "735999109271319081",
+			"category": "ELECTRICITY",
+			"billingId": "2046111",
+			"agreementId": "41255",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2016-11-02"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "632872",
+			"facilityId": "735999109170403027",
+			"category": "ELECTRICITY",
+			"billingId": "2046560",
+			"agreementId": "41622",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2017-01-01"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "632912",
+			"facilityId": "735999109211809887",
+			"category": "ELECTRICITY",
+			"billingId": "2046622",
+			"agreementId": "41678",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2017-01-04"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "633151",
+			"facilityId": "735999109162107889",
+			"category": "ELECTRICITY",
+			"billingId": "2046994",
+			"agreementId": "41928",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2017-03-01"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "633700",
+			"facilityId": "735999109453841010",
+			"category": "ELECTRICITY",
+			"billingId": "2047888",
+			"agreementId": "42683",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2017-06-01"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "630024",
+			"facilityId": "1539",
+			"category": "DISTRICT_HEATING",
+			"billingId": "2048465",
+			"agreementId": "43176",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2017-08-16"
+		},
+		{
+			"partyId": "65E78C52-B2E1-42DD-8D42-828A94E5BAFF",
+			"customerNumber": "648730",
+			"facilityId": "735999109116015154",
+			"category": "ELECTRICITY",
+			"billingId": "2051611",
+			"agreementId": "46042",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "1950-01-01"
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 9,
+		"sortDirection": "ASC",
+		"totalRecords": 9,
+		"totalPages": 1
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9120601050",
+			"placementId": 3619,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 3",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9140205031",
+			"placementId": 3620,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 10",
+			"postCode": "85350",
+			"city": "SUNDSVALL",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9140205056",
+			"placementId": 3621,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 14",
+			"postCode": "85350",
+			"city": "SUNDSVALL",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "735999109140402043",
+			"placementId": 17255,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 14",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Halmstad",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 4,
+		"sortDirection": "ASC",
+		"totalRecords": 4,
+		"totalPages": 1
+	}
+}

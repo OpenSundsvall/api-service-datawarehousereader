@@ -1,0 +1,56 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600675",
+			"type": "Avfallsvåg",
+			"facilityId": "600675",
+			"placementId": 397,
+			"careOf": "Statlig instutition",
+			"street": "",
+			"postCode": "",
+			"city": "",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600675",
+			"type": "Fjärrvärme",
+			"facilityId": "735999109111805057",
+			"placementId": 5261,
+			"careOf": "Statlig instutition",
+			"street": "Vägen 22",
+			"dateFrom": "2016-11-22",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "44",
+					"type": "MWh",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "debiteffect",
+					"value": "12",
+					"type": "kW",
+					"displayName": "Abonnerad effekt"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 2,
+		"sortDirection": "ASC",
+		"totalRecords": 2,
+		"totalPages": 1
+	}
+}

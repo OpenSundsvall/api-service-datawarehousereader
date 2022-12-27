@@ -1,0 +1,50 @@
+{
+	"customerEngagements": [
+		{
+			"partyId": "318b7ec8-aab8-41e2-82f5-796bdd5cebf2",
+			"customerType": "Enterprise",
+			"customerNumber": "10335",
+			"organizationNumber": "5564786647",
+			"organizationName": "Sundsvall Energi AB"
+		},
+		{
+			"partyId": "5ff79977-a61f-4ca8-96d7-03a46d2ab7dd",
+			"customerType": "Enterprise",
+			"customerNumber": "38308",
+			"organizationNumber": "5564786647",
+			"organizationName": "Sundsvall Energi AB"
+		},
+		{
+			"partyId": "1aeb8dfe-f4d3-4f25-a143-82608af27a14",
+			"customerType": "Enterprise",
+			"customerNumber": "600606",
+			"organizationNumber": "5564786647",
+			"organizationName": "Sundsvall Energi AB"
+		},
+		{
+			"partyId": "992d7740-6d87-473b-85b5-42b414cb4742",
+			"customerType": "Enterprise",
+			"customerNumber": "600675",
+			"organizationNumber": "5564786647",
+			"organizationName": "Sundsvall Energi AB"
+		},
+		{
+			"partyId": "10e69eb7-3cb4-442f-8cdb-2e998080dbb1",
+			"customerType": "Private",
+			"customerNumber": "691071",
+			"organizationNumber": "5564786647",
+			"organizationName": "Sundsvall Energi AB"
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 5,
+		"sortBy": [
+			"customerOrgId"
+		],
+		"sortDirection": "ASC",
+		"totalRecords": 5,
+		"totalPages": 1
+	}
+}

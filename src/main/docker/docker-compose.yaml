@@ -1,0 +1,17 @@
+version: "3"
+services:
+  ms-datawarehousereader:
+    container_name: ms-datawarehousereader
+    image: 'ms-datawarehousereader'
+    network_mode: bridge
+    restart: always
+    build:
+      context: ../../..
+      dockerfile: src/main/docker/Dockerfile
+    ports:
+      - "9105:8080"
+    environment:
+      SPRING_PROFILES_ACTIVE: 'test'
+      SPRING_CLOUD_CONFIG_URI: '<url>'
+      SPRING_CLOUD_CONFIG_USERNAME: '<username>'
+      SPRING_CLOUD_CONFIG_PASSWORD: '<password>'

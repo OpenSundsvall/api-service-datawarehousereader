@@ -1,0 +1,241 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "600606",
+			"type": "El",
+			"facilityId": "600606",
+			"placementId": 57,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "",
+			"postCode": "",
+			"city": "",
+			"dateFrom": "2005-10-13",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "4990",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9120601050",
+			"placementId": 3619,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 3",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9140205031",
+			"placementId": 3620,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 10",
+			"postCode": "85350",
+			"city": "SUNDSVALL",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "9140205056",
+			"placementId": 3621,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 14",
+			"postCode": "85350",
+			"city": "SUNDSVALL",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Täby",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "600606",
+			"type": "Elhandel",
+			"facilityId": "735999109140402043",
+			"placementId": 17255,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 14",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Halmstad",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "600606",
+			"type": "El",
+			"facilityId": "735999109261218707",
+			"placementId": 26244,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Vägen 2",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "2476",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "600606",
+			"type": "El",
+			"facilityId": "735999109450755013",
+			"placementId": 33485,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Vägen 48",
+			"dateFrom": "2005-10-13",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "6933",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "22",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "600606",
+			"type": "El",
+			"facilityId": "735999109140205897",
+			"placementId": 34964,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Gatan 10",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "8401",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "600606",
+			"type": "El",
+			"facilityId": "735999109144630886",
+			"placementId": 34997,
+			"careOf": "Fräscha fastigheter AB",
+			"street": "Vägen 14 /414 41343",
+			"dateFrom": "2001-07-11",
+			"dateTo": "2013-11-12",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "11350",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "13",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 9,
+		"sortDirection": "ASC",
+		"totalRecords": 9,
+		"totalPages": 1
+	}
+}

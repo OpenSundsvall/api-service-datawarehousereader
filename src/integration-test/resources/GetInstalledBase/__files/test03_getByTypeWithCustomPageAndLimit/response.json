@@ -1,0 +1,324 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109420818922",
+			"placementId": 35347,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen",
+			"dateFrom": "2017-08-27",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "1739",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109452603886",
+			"placementId": 35352,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 5",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "1260",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109452901883",
+			"placementId": 35353,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen Park",
+			"dateFrom": "1997-03-11",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "2411",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109452901890",
+			"placementId": 35354,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen Fast",
+			"dateFrom": "2010-07-03",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "1879",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109114705002",
+			"placementId": 35359,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Allén 18",
+			"postCode": "85236",
+			"city": "SUNDSVALL",
+			"dateFrom": "2004-04-14",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "1814",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109114706009",
+			"placementId": 35385,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Allén 20",
+			"postCode": "85236",
+			"city": "SUNDSVALL",
+			"dateFrom": "2005-10-13",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "31294",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "13",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109252712009",
+			"placementId": 35999,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 282  Parkering",
+			"postCode": "85652",
+			"city": "SUNDSVALL",
+			"dateFrom": "2006-05-23",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "5093",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109252611005",
+			"placementId": 36001,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 282 A",
+			"postCode": "85652",
+			"city": "SUNDSVALL",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "22507",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "9251832325",
+			"placementId": 36002,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 282 A",
+			"postCode": "856 52",
+			"city": "SUNDSVALL",
+			"dateFrom": "2013-12-27",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "1148",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		},
+		{
+			"company": "Sundsvall Elnät",
+			"customerNumber": "10335",
+			"type": "El",
+			"facilityId": "735999109173512092",
+			"placementId": 36360,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 45",
+			"postCode": "85239",
+			"city": "SUNDSVALL",
+			"dateFrom": "2013-01-12",
+			"metaData": [
+				{
+					"key": "annualusage",
+					"value": "2505",
+					"type": "kW",
+					"displayName": "Beräknad årlig förbrukning"
+				},
+				{
+					"key": "fusesize",
+					"value": "10",
+					"type": "A",
+					"displayName": "Säkringsstorlek"
+				},
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 18,
+		"limit": 10,
+		"count": 10,
+		"sortDirection": "ASC",
+		"totalRecords": 180,
+		"totalPages": 18
+	}
+}

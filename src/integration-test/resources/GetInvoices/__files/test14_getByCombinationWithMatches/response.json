@@ -1,0 +1,44 @@
+{
+	"invoices": [
+		{
+			"customerNumber": "10335",
+			"customerType": "Enterprise",
+			"facilityId": "735999109224602000",
+			"invoiceNumber": 139346993,
+			"invoiceDate": "2019-10-10",
+			"invoiceName": "139346993.pdf",
+			"invoiceType": "Faktura",
+			"invoiceDescription": "El",
+			"invoiceStatus": "Skickad",
+			"ocrNumber": 139346993,
+			"dueDate": "2019-11-11",
+			"totalAmount": 458.0,
+			"amountVatIncluded": 457.93,
+			"amountVatExcluded": 366.34,
+			"vatEligibleAmount": 366.34,
+			"rounding": 0.07,
+			"vat": 366.34,
+			"reversedVat": false,
+			"currency": "sek",
+			"organizationGroup": "stadsbacken",
+			"organizationNumber": "5565027223",
+			"administration": "Sundsvall Elnät", 
+			"street": "Fakturor",
+			"postCode": "85185",
+			"city": "SUNDSVALL",
+			"careOf": "Fastighetsförmedling AB",
+			"pdfAvailable": false
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 1,
+		"sortBy": [
+			"invoiceDate"
+		],
+		"sortDirection": "ASC",
+		"totalRecords": 1,
+		"totalPages": 1
+	}
+}

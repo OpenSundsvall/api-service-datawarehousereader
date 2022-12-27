@@ -1,0 +1,312 @@
+{
+	"measurements": [
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 0.0,
+			"timestamp": "2019-06-01T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 0.11,
+			"timestamp": "2019-06-01T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 1.0,
+			"timestamp": "2019-06-01T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 12.0,
+			"timestamp": "2019-06-01T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 19.0,
+			"timestamp": "2019-06-01T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 2.59,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 4.31,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 4.54,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 4.55,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 4.78,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 4.85,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 5.33,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 5.34,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 5.44,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 5.66,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 5.73,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 8.507,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 10.01,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 11.02,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 11.22,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 15.0,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 25.69,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 36.12,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 0
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 1.0,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 1
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 5.0,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 1
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 12.0,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 1
+		},
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109112501170",
+			"category": "ELECTRICITY",
+			"aggregatedOn": "DAY",
+			"measurementType": "Energy",
+			"unit": "MWh",
+			"value": 17.0,
+			"timestamp": "2019-06-02T00:00:00+02:00",
+			"interpolation": 1
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 27,
+		"sortBy": [
+			"measurementTimestamp"
+		],
+		"sortDirection": "ASC",
+		"totalRecords": 27,
+		"totalPages": 1
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"agreements": [
+		{
+			"partyId": "53A17B25-0E65-487A-A435-ED52809C386C",
+			"customerNumber": "632819",
+			"facilityId": "1981",
+			"category": "DISTRICT_HEATING",
+			"billingId": "2046470",
+			"agreementId": "41545",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"fromDate": "2017-01-01"
+		}
+	],
+	"_meta": {
+		"page": 5,
+		"limit": 1,
+		"count": 1,
+		"sortDirection": "ASC",
+		"totalRecords": 13,
+		"totalPages": 13
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"installedBase": [
+		{
+			"company": "Sundsvall Energi AB",
+			"customerNumber": "10335",
+			"type": "Elhandel",
+			"facilityId": "735999109141107350",
+			"placementId": -29358,
+			"careOf": "Fastighetsförmedling AB",
+			"street": "Vägen 4",
+			"postCode": "85353",
+			"city": "Sundsvall",
+			"dateFrom": "2001-07-11",
+			"metaData": [
+				{
+					"key": "netarea",
+					"value": "Sundsvall tätort",
+					"type": "location",
+					"displayName": "Nätområde"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 1,
+		"sortDirection": "ASC",
+		"totalRecords": 1,
+		"totalPages": 1
+	}
+}

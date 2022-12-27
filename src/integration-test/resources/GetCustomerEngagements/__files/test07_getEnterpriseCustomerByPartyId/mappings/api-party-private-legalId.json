@@ -1,0 +1,19 @@
+{
+	"name": "api-party-private-legalId",
+	"request": {
+		"method": "GET",
+		"urlPath": "/api-party/PRIVATE/70933c1c-2094-44e6-9abe-57b8a3c0ecd9/legalId",
+		"headers": {
+			"Authorization": {
+				"equalTo": "Bearer MTQ0NjJkZmQ5OTM2NDE1ZTZjNGZmZjI3"
+			}
+		}
+	},
+	"response": {
+		"headers": {
+			"Content-Type": "text/plain"
+		},
+		"status": 404,
+		"jsonBody": {"title":"Not Found","status":404,"detail":"citizenmapping error: {status=404 Not Found, title=Not Found}"}
+	}
+}

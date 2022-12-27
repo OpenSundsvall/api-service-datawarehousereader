@@ -1,0 +1,28 @@
+version: "3"
+services:
+  ms-datawarehousereader-sandbox:
+    container_name: ms-datawarehousereader-sandbox
+    image: 'ms-datawarehousereader'
+    links:
+      - wiremock
+    restart: always
+    build:
+      context: ../../..
+      dockerfile: ./src/main/docker/Dockerfile
+    ports:
+      - "9092:8080"
+    environment:
+      SPRING_PROFILES_ACTIVE: 'sandbox'
+
+    depends_on:
+      - wiremock
+
+  wiremock:
+    container_name: wiremock
+    image: wiremock/wiremock
+    restart: always
+    command: --verbose
+    expose:
+      - '8080'
+    volumes:
+      - $PWD/src/test/resources/wiremock:/home/wiremock

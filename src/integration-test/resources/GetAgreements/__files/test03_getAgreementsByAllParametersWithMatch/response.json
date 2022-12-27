@@ -1,0 +1,26 @@
+{
+	"agreements": [
+		{
+			"partyId": "10E69EB7-3CB4-442F-8CDB-2E998080DBB1",
+			"customerNumber": "634635",
+			"facilityId": "735999109452782017",
+			"category": "ELECTRICITY",
+			"billingId": "2049476",
+			"agreementId": "43985",
+			"description": "Fastpris 2 år",
+			"mainAgreement": true,
+			"binding": false,
+			"bindingRule": "Fastpris 2 år",
+			"fromDate": "2022-01-01",
+			"toDate": "2022-07-01"
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 1,
+		"sortDirection": "ASC",
+		"totalRecords": 1,
+		"totalPages": 1
+	}
+}

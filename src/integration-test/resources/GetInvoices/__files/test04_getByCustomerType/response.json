@@ -1,0 +1,44 @@
+{
+	"invoices": [
+		{
+			"customerNumber": "691071",
+			"customerType": "Private",
+			"facilityId": "735999226000059909",
+			"invoiceNumber": 766763197,
+			"invoiceDate": "2019-10-08",
+			"invoiceName": "766763197.pdf",
+			"invoiceType": "Faktura",
+			"invoiceDescription": "Fjärrkyla",
+			"invoiceStatus": "Skickad",
+			"ocrNumber": 766763197,
+			"dueDate": "2019-10-30",
+			"totalAmount": 344.0,
+			"amountVatIncluded": 343.7,
+			"amountVatExcluded": 274.96,
+			"vatEligibleAmount": 274.96,
+			"rounding": 0.3,
+			"vat": 274.96,
+			"reversedVat": false,
+			"currency": "sek",
+			"organizationGroup": "stadsbacken",
+			"organizationNumber": "5564786647",
+			"administration": "Sundsvall Energi AB",
+			"street": "Flugeby Hammersdal",
+			"postCode": "50199",
+			"city": "Vetlanda",
+			"careOf": "Pettson Findus",
+			"pdfAvailable": false
+		}
+	],
+	"_meta": {
+		"page": 1,
+		"limit": 100,
+		"count": 1,
+		"sortBy": [
+			"invoiceDate"
+		],
+		"sortDirection": "ASC",
+		"totalRecords": 1,
+		"totalPages": 1
+	}
+}

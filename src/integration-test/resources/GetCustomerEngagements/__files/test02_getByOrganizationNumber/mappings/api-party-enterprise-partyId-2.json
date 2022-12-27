@@ -1,0 +1,19 @@
+{
+	"name": "api-party-enterprise-partyId-2",
+	"request": {
+		"method": "GET",
+		"urlPath": "/api-party/ENTERPRISE/5523456789/partyId",
+		"headers": {
+			"Authorization": {
+				"equalTo": "Bearer MTQ0NjJkZmQ5OTM2NDE1ZTZjNGZmZjI3"
+			}
+		}
+	},
+	"response": {
+		"headers": {
+			"Content-Type": "text/plain"
+		},
+		"status": 200,
+		"body": "5ff79977-a61f-4ca8-96d7-03a46d2ab7dd"
+	}
+}

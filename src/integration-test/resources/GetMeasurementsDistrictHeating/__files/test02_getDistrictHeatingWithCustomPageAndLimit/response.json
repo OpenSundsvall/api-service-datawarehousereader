@@ -1,0 +1,36 @@
+{
+	"measurements": [
+		{
+			"partyId": "B1EDEA3C-1083-4E1A-81FB-7D95E505E102",
+			"facilityId": "735999109113202014",
+			"category": "DISTRICT_HEATING",
+			"aggregatedOn": "MONTH",
+			"measurementType": "Aktiv",
+			"unit": "kWh",
+			"value": 2111.47,
+			"timestamp": "2018-12-01T00:00:00+01:00",
+			"metaData": [
+				{
+					"key": "readingSequence",
+					"value": "4321552"
+				},
+				{
+					"key": "feedTypeId",
+					"value": "0"
+				}
+			],
+			"interpolation": 0
+		}
+	],
+	"_meta": {
+		"page": 2,
+		"limit": 10,
+		"count": 1,
+		"sortBy": [
+			"measurementTimestamp"
+		],
+		"sortDirection": "ASC",
+		"totalRecords": 11,
+		"totalPages": 2
+	}
+}

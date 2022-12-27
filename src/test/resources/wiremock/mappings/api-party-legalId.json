@@ -1,0 +1,14 @@
+{
+	"name": "api-party-legalId",
+	"request": {
+		"urlPath": "/api-party/PRIVATE/3b7a5955-f481-42bd-a2b3-6ef8bd76b105/legalId",
+		"method": "GET"
+	},
+	"response": {
+		"headers": {
+			"Content-Type": "text/plain"
+		},
+		"status": 200,
+		"body": "197706010123"
+	}
+}
